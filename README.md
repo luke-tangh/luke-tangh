@@ -1,6 +1,6 @@
 ### Hi there, I'm Luke Tang 👋
 
-- 🔭 I’m currently working on college admissions.
+- 🔭 I’m currently working on university curriculum.
 - 🌱 I’m currently learning Python and C++.
 
 ![](https://raw.githubusercontent.com/luke-tangh/my-github-stats/master/generated/overview.svg#gh-dark-mode-only)
